@@ -1,0 +1,20 @@
+{
+  "name": "turtle-server",
+  "version": "0.1.0",
+  "type": "module",
+  "description": " A logo-like turtle implemented as a Web service, implemented in a Smalltalk hosted by node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "turtle",
+    "logo",
+    "smalltalk"
+  ],
+  "author": "Javier Pimás",
+  "license": "MIT",
+  "dependencies": {
+    "powerlangjs-webside": "^1.0.0"
+  }
+}
